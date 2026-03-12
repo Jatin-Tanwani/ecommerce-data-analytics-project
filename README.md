@@ -25,13 +25,13 @@ The objective of this project is to analyze ecommerce business data to identify 
 
 ## 📊 Dashboard Preview
 ### Sales Performance Overview
-![Sales Dashboard](sales_dashboard.png.png)
+![Sales Dashboard](sales_dashboard.png)
 
 ### Product Performance Analysis
-![Product Dashboard](product_dashboard.png.png)
+![Product Dashboard](product_dashboard.png)
 
 ### Website Analytics
-![Website Dashboard](website_dashboard.png.png)
+![Website Dashboard](website_dashboard.png)
 
 ## 📈 Key Insights
 • Identified top-performing products by revenue
